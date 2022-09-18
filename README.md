@@ -96,7 +96,3 @@ REFERENCES
         [5] M.A. Thomas. I/O Redirection and Pipes [Online]. Available: https://homepages.uc.edu/~thomam/Intro_Unix_Text/IO_Redir_Pipes.html
 
         [6] D.A. Rusling. Processes [Online]. Available: https://tldp.org/LDP/tlk/kernel/processes.html
-
-I certify that this assignment is my own work carried out in a manner pursuant to the DCU Academic Integrity Policy,
-based on my personal study and/or research and that I have acknowledged all material and sources used in its preparation.
-Benjamin Olojo - 19500599
