@@ -82,17 +82,3 @@ PROCESS EXECUTION
         With background processes, myshell does not have to wait for the process to end before it can solicit and run other commands.
         The myshell program will execute commands in the background if there are concluded with an ampersands (&).
         The user will immediately be able to enter another command in the prompt if the previous command was executed in the background.
-
-REFERENCES
-
-        [1] gnu.org. Bash Reference Manual [Online]. Available: https://www.gnu.org/savannah-checkouts/gnu/bash/manual/bash.html
-
-        [2] S.K. Cha, T. Avgerinos, A. Rebert, D.Brumley. Unleashing Mayhem on Binary Code [Online]. Available: https://ieeexplore.ieee.org/document/6234425
-
-        [3] IBM. IBM Docs [Online]. Available: https://www.ibm.com/docs/en/zos/2.1.0?topic=directories-working-directory
-
-        [4] Oracle. Shell Environment [Online]. Available: https://docs.oracle.com/cd/E19120-01/open.solaris/819-2379/userconcept-26/index.html#:~:text=A%20shell%20maintains%20an%20environment,variables%20are%20defined%20by%20default
-
-        [5] M.A. Thomas. I/O Redirection and Pipes [Online]. Available: https://homepages.uc.edu/~thomam/Intro_Unix_Text/IO_Redir_Pipes.html
-
-        [6] D.A. Rusling. Processes [Online]. Available: https://tldp.org/LDP/tlk/kernel/processes.html
